@@ -5,8 +5,9 @@ for i in range(t):
     style_1 = X1+Y1
     style_2 = X2+Y2
     
-    if (style_1)>(style_2):
+    if style_1 > style_2:
         print(style_2)
         
-    elif (style_1)<(style_2):
+    else:
         print(style_1)
+   
