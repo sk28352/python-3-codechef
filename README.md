@@ -1,4 +1,4 @@
-# python-3-codechef
+# Python-3-CodeChef
 
 
 *This repository consists of answers to questions from the coding platform codechef.*
